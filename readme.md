@@ -20,7 +20,8 @@
 </p>
 <br>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+
+![Snake animation](https://github.com/vansh2308/vansh2308/blob/output/github-contribution-grid-snake.svg)
 
 
 
