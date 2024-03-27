@@ -25,44 +25,15 @@
 
 
 
+<h2 align="center">Tech Stack</h2>
 
-
-<h2 align="left">Tech Stack</h2>
-
-#### Backend
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=aws,bash,blender,c,cpp,cloudflare,css,django,docker,express,figma,firebase,flask,git,github,go,graphql,html,js,jquery,kali,kafka,linux,materialui,matlab,mongo,mysql,nextjs,nodejs,postgres,py,pytorch,react,redis,redux,tailwind,tensorflow,threejs,ts,gcp&perline=10" />
   </a>
 </p>
 
-#### Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
-  </a>
-</p>
 
-#### Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p>
-
-#### Cloud 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
-  </a>
-</p>
-
-#### Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
-  </a>
-</p>
 
 <br/>
 
