@@ -14,9 +14,9 @@
 
 ### Get in touch
 <p align="left" >
-<a href="https://www.linkedin.com/in/vansh-agarwal-9b2836166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="60" /></a>
-<a href="mailto:agarwal.25@iitj.ac.in" target="blank"><img align="center" src="./assets/Gmail_icon_(2020).svg.png" alt="supun nanayakkara" height="25" width="35" /></a>
-<a href="https://www.youtube.com/channel/UCAwGevbjLGlJYJVFFnZwaNg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="35" width="60" /></a>
+<a href="https://www.linkedin.com/in/vansh-agarwal-9b2836166/" target="blank" style="margin-right: 15px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" width="38" style="margin-right: 15px" /></a>
+<a href="mailto:agarwal.25@iitj.ac.in" target="blank"><img align="center" src="./assets/Gmail_icon_(2020).svg.png" alt="supun nanayakkara" width="50" style="margin-right: 1.5rem"/></a>
+<a href="https://www.youtube.com/channel/UCAwGevbjLGlJYJVFFnZwaNg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara"  width="50" style="margin-right: 15px" /></a>
 </p>
 <br>
 
