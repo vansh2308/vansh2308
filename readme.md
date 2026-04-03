@@ -21,9 +21,6 @@
 <br>
 
 
-![Snake animation](https://github.com/vansh2308/vansh2308/blob/output/github-contribution-grid-snake-dark.svg)
-
-
 
 <h2 align="center">Tech Stack</h2>
 
